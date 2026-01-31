@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Завдання 1</title>
+        <style>
+        body{
+		background-image: url(673ef5d5c259e-gb0t3jlwqakxdkq_913.jpeg.webp);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		}
+		header{
+		color: white;
+		 font-size: 27px;
+		}
+		nav{
+		background: #1a1a1a;
+		padding: 12px;
+		text-align: center;
+		border-bottom: 1px solid #262626;
+		}
+		
+		nav a {
+		    color:#c7c7c7;
+		    margin: 0 14px;
+		    text-decoration: none;
+		    font-size: 23px;
+		    display: inline-block;
+		    transition: 0.3s;
+		}
+		
+		nav a:hover {
+		    color: white;
+		    transform: translateY(-3px)
+		}
+		
+		img{
+		height: 200px;
+		width: 200px;
+		border-radius: 10px;
+		}
+		.v12{
+		color: white;
+		font-size: 20px;
+		}
+		.v8{
+		height: 200px;
+		width: 250px;
+		border-radius: 10px;
+		}
+		hr{
+		width: 400px;
+		}
+		
+		</style>
+	</head>
+	<body> 
+	<div id="y">
+	<header align="center">
+	 Головна
+	</header>
+       <nav align="center">
+			<a href="file:///C:/Users/Levko/Desktop/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0.html">Головна</a>
+			<a  href="file:///C:/Users/Levko/Desktop/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0/%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%206.html">Історія</a>
+			<a href="file:///C:/Users/Levko/Desktop/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0/%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%202.html">Магазин</a>
+			<a href="file:///C:/Users/Levko/Desktop/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0/%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%203.html">Про нас</a>
+			<a href="file:///C:/Users/Levko/Desktop/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0/%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%201.html">Мерч</a>
+			<a href="file:///C:/Users/Levko/Desktop/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0/%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9%204.html">Кінець</a>
+		</nav>
+		</div>
+		<br><br>
+		<p class="v12" align="center">Сайт по
+	       Stalker 2</p>
+		<br><br>
+		<div align="center">
+		<img src="images.jpg">
+		<img src="unnamed.jpg"></img>
+		<img src="173769726414676438.jpg">
+		<p class="v12">трішки позитивних вібрацій :)</p>
+		</div>
+		<hr>
+		<br><br><br>
+		<div align="center">
+		<img src="images (1).jpg">
+		<img src="8f9aae174a00d4baade8054065fff775.jpg"></img>
+		<img src="577d0796f701c06d6573ff43c0b65c47.jpg" class="v8">
+		</div>
+		<p class="v12" align="center">Більш важливіша <br> інфа на наступних сторінках</p>
+	       
+    </body>
+</html>
